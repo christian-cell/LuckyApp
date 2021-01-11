@@ -1,0 +1,23 @@
+@import "~primereact/resources/themes/luna-pink/theme.css";
+@import "~primereact/resources/primereact.min.css";
+@import "~primeicons/primeicons.css";
+@import "~bootstrap/scss/bootstrap-grid"; 
+
+@font-face {
+  font-family: 'BARLOW';
+  src: local('BARLOW'), url(./fonts/barlow.regular.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: 'BARLOW', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

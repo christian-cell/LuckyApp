@@ -1,0 +1,133 @@
+$color_fuente: rgb(1, 116, 142);
+$color_boton_flechas: rgb(250, 156, 147);
+
+
+
+.tituloFiltro{
+    font-size:20px;
+    text-align: center;
+   
+    color: $color_fuente;
+}
+
+.titulo-secundario{
+    margin-left: 20px;
+    margin-bottom: 14px;
+    font-size: 16px;
+    color: $color_fuente;
+}
+
+////////////////////////////////// ESPECIES /////////////////////////////
+.content-div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 27px;
+}
+
+.content-div__iconos{
+    width: 67px;
+    height: 73px;
+    border-radius: 5px;
+    background-color: white;
+    //border: 2px solid $color_fuente;
+    margin-left: 12px;
+    margin-bottom: 10px;
+    & img{
+        margin-left: 16px;
+        margin-top: 4px;
+    }
+    
+    & p{
+        margin: 0px;
+        font-size: 12px;
+        //color: $color_fuente;
+        text-align: center;
+    }
+}
+
+////////////////////////////////////////////////////////////////////////
+
+.perro-especial-especie{
+    padding-left: 2px;
+    padding-top: 8px;
+
+}
+.gato-conejo-especial-especie{
+    padding-left: 4px;
+}
+
+.p-especial{
+    padding-top: 8px;
+}
+
+.icono-especial{
+    padding-top: 8px;
+}
+
+.content-div-sexo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo-perro-pequeño{
+    padding-left: 8px;
+    padding-top: 12px;
+}
+
+.p-perro-pequeño{
+    padding-top: 8px;
+}
+
+.p-perro-mediano{
+    padding-top: 8px;
+}
+
+.logo-perro-grande{
+    width: 40px;
+    height: 40px;
+}
+
+.content-botones{
+    text-align: center;
+    margin: 20px;
+    & button{
+        width: 333px;
+        height: 40px;
+        border-radius: 5px;
+        border: 0px;
+        background-color: $color_boton_flechas;
+        color: white;
+        font-size: 16px;
+    }
+}
+
+.boton-limpiar{
+    display: none;
+}
+
+.select{
+    margin-left: 20px;
+    width: 260px;
+    font-size: 12px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    background-color: transparent;
+    color: rgb(85, 85, 85);
+    border-bottom: 1px solid rgb(189, 210, 214);
+}
+
+.color-icons-selected{
+    border: 1px solid $color_boton_flechas;
+    color: $color_boton_flechas;
+}
+
+.color-icons{
+    border:1px solid $color_fuente;
+    color: $color_fuente;
+}
+.visible{
+    display: none;
+}

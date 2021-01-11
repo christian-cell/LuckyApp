@@ -1,0 +1,292 @@
+.inputSearcher{
+    border-radius:10px;
+    border:1px solid #dfe6e9;
+    margin-left: 12px;
+    width:329px;
+    height: 35px;
+}
+.input-group{
+    margin-top: 7%;
+}
+.estado-adopcion-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:36px;
+    border:1px solid #b2bec3;
+    width:352px;
+    margin-left: 12px;
+    border-radius: 5px;
+    color: rgb(1, 116, 142);
+    height: 50px;
+}
+.b-primereact-carousel{
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.b-primereact-carousel-iconos-adoptados{
+    
+    display:block;
+    margin:auto;
+    padding: 10px;
+   
+    
+
+}
+.b-primeract-carousel-iconos-image{
+    
+    background-color: #bdd2d6;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 7px;
+    text-align: center;
+}
+
+.b-primereact-carousel-nombre-container{
+   
+}
+
+.span1{
+    position: absolute;
+    color : rgb(1, 116 ,142);
+    width:300px;
+    margin-left: 16px;
+    margin-top:80px
+}
+.span2{
+    position:absolute;
+    top:20%;
+    width:300px;
+    margin-left: 16px;
+    font-size:13px;
+    color:#636e72
+}
+
+
+.animales-adopcion-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:36px;
+    width:352px;
+    margin-left: 12px;
+    border-radius: 5px;
+    color: rgb(1, 116, 142);
+    height: 50px;
+
+}
+
+.estado-adopcion-container:hover{
+ border:1px solid #0984e3
+}
+
+.arrow-image{
+    height: 20px;
+    margin-top: 90%;
+}
+
+.adopcion-container-header{
+    margin-top: 10px;
+    margin-right: 145px ;
+    margin-left: 10px;
+
+}
+
+.adopcion-image-container{
+    height: 20px;
+    margin-top: 12px;
+}
+
+.adopcion-image{
+    height: 24px;
+
+}
+
+
+.animales-adopcion-header-container{
+    margin-top: 10px;
+    margin-right: 155px ;
+    margin-left: 10px;
+    
+}
+
+.button-arrow-container{
+    border:none;
+    background-color: transparent;
+}
+
+
+
+.searcher-icon{
+    color:#fab1a0
+}
+
+.imageMore{
+    height: 19px;
+}
+
+
+
+.gallery-container{
+    width: 333px;
+    margin-left: 10px;
+    margin-top:20px
+}
+
+
+
+
+.imagesSimba{
+    width: 333px;
+}
+.imagesRocky{
+    width: 333px;
+}
+.imagesUii{
+    width: 333px;
+}
+
+.petContainerSimba{
+  margin-bottom: 10px;
+}
+
+.petContainerRocky{
+  margin-bottom: 20px;
+
+}
+
+.petContainerUii{
+    margin-bottom: 20px;
+
+}
+
+.simba-container{
+    display:flex;
+    flex-wrap: wrap;
+    border-right:1px solid #dfe6e9;
+    border-left:1px solid #dfe6e9;
+    border-bottom:1px solid #dfe6e9;
+    height: 60px;
+    border-radius:10px
+}
+
+.simba-container:hover{
+ border:1px solid #0984e3
+    
+
+}
+
+.simba{
+    margin-left: 8px;
+    font-size: 20px;
+    color : rgb(1, 116, 142)
+
+}
+
+.ubicacionSimba{
+    margin-left: 208px;
+    height: 10px;
+    color: grey;
+    width: 10px;
+}
+
+.uii-container{
+    display:flex;
+    flex-wrap: wrap;
+    border-right:1px solid #dfe6e9;
+    border-left:1px solid #dfe6e9;
+    border-bottom:1px solid #dfe6e9;
+    
+    height: 60px;
+    border-radius:10px
+}
+
+.uii-container:hover{
+    border:1px solid #0984e3
+}
+
+.ubicacionUii{
+    margin-left: 238px;
+    height: 10px;
+    color: grey;
+    width: 10px;
+}
+
+.uii{
+    margin-left: 8px;
+    font-size: 20px;
+    color : rgb(1, 116, 142)
+}
+
+.petContainerSimba:hover{
+    border:1px solid #0984e3
+
+}
+
+.petContainerRocky:hover{
+    border:1px solid #0984e3
+
+}
+
+.petContainerUii:hover{
+    border:1px solid #0984e3
+
+}
+
+.iconos-adoptados{
+    width:61px;
+    height: 61px;
+    background-color: rgb(189, 210 ,214);
+    border-radius: 8px
+}
+
+.iconos-image{
+    width:28px;
+    height: 32px;
+    margin-left: 16px;
+}
+
+
+
+.nombre-container{
+    width:35px;
+    height: 17px;
+    margin-left: 12px;
+    font-size:12px;
+    color: rgba(0 ,93 ,114, 0.76)
+}
+.main-container{
+    padding-bottom: 50px;
+}
+
+.span-container{
+    
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50PX;
+    padding: 10px;
+    color: rgb(1, 116, 142);
+    font-weight: bold;
+
+    
+    
+}
+.imageMore{
+    padding: 0;
+    margin: 0;
+}
+.imgpet23{
+   
+    padding-top: 20px;
+   border-radius: 5px;
+    align-content: center;
+    width: 25px;
+    height: 30px;
+}
+.namemasco{
+    font-size: 15px;
+    background-color:rgb(1, 116, 142) ;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}

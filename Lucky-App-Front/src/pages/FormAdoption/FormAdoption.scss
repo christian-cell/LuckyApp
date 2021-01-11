@@ -1,0 +1,349 @@
+.botonVolverFiltro{
+    
+    height: 25px;
+    width: '75px'; 
+    background-color: rgb(250 ,156 ,147);
+    color:white;
+    border:none;
+    border-radius:7px
+}
+
+.meter{
+    width:334px;
+    margin-left: 20px;
+}
+
+meter::-webkit-meter-bar 
+{background:#f3f3f3;
+  
+}
+meter::-webkit-meter-optimum-value{background:#cb5700;}
+meter::-webkit-meter-suboptimum-value{
+    background:rgb(250, 156, 147);
+}
+
+.tusDatos{
+    padding-left: 20px;
+}
+
+.h4-formulario-adopcion{
+    margin-left:20px;
+}
+.form-container{
+    margin-top: 40px;
+   
+    overflow: hidden;
+}
+
+.adoption-input-control{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: solid #bdc3c7 1px; 
+    width:334px
+}
+
+.adoption-input-control:hover{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.h2-tus-datos{
+    width:86px;
+    height: 24px;
+    font-size: 18px;
+    color:rgb(1, 116 ,142);
+    width:200px;
+}
+
+.input-container{
+    margin-bottom: 20px;
+
+}
+
+.terminosCondiciones-container{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left:20px
+}
+
+
+.spanTerminosCondicionesContainer{
+    font-size:12px;
+    margin-top:5px;
+    margin-left: 5px
+}
+
+.continuarAlSegundoButton-container{
+width:333px;
+margin-left: 21px;
+margin-top:60px;
+text-align: center;
+}
+
+.buttonContinuarAlSegungo{
+    width:333px;
+    height: 40px;
+    background-color: rgb(250 ,156 ,147);
+    color:white;
+    border:none;
+    padding-top: 8px;
+}
+
+.aEnviar{
+    text-decoration: none;
+    color:white
+}
+
+.firstForm{
+    margin-top:0px;
+}
+
+.secondForm{
+    margin-bottom:50px ;
+}
+
+.sobreLasMascotas{
+    width:200px;
+}
+
+.tienesMasAnimales{
+    margin-top: 10px;
+}
+
+.imageTerminosCondicionesContainer{
+    margin-top:2px
+}
+
+
+
+
+.checkboxBody{
+    font-size: 14px;
+    width:150px;
+}
+
+.no-container{
+    display:wrap;
+    flex-wrap: wrap;
+    font-size:12px;
+    flex-direction: column;
+}
+
+
+
+.checkContainer{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.vivesAlquiler{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.main-checkbox-container{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 167px;
+}
+
+.checkbox-container{
+    width: 30px;
+    display:wrap;
+    flex-wrap: wrap;
+    font-size:12px;
+    flex-direction: column;
+    height: 50px;
+}
+
+
+.permite-animales{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.span{
+    margin-left: 10px;
+}
+
+.donde-vives{
+    margin-left: 10px;
+
+}
+
+.tienesAnimales{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+.main-checkbox-container8{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 110px;
+}
+
+.answerInputs{
+    border-top:none;
+    border-right: none;
+    border-left: none;
+    border-bottom: solid #bdc3c7 1px;
+    width:334px
+
+}
+
+.donde-vives{
+    margin-bottom: 10px;
+}
+
+.inputDondeVives{
+    border-top:none;
+    border-right: none;
+    border-left: none;
+    border-bottom: solid #bdc3c7 1px;
+    width:334px
+}
+
+
+
+.main-checkbox-container2{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 86px;
+}
+
+.te-mudas-pronto{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.main-checkbox-container3{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 41px;
+}
+
+.tienes-jardin{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.main-checkbox-container4{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 189px;
+}
+
+.main-checkbox-container5{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 103px;
+}
+
+.vives-personas{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.estasDeAcuerdo{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.main-checkbox-container6{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 1px;
+}
+
+
+.deAcuerdoSpan{
+    width:200px;
+    margin-left:10px
+}
+
+
+
+.deAcuerdo{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.main-checkbox-container7{
+    width:71px;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 89px;
+}
+
+.formulario-container{
+    margin-left:16px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.iconoContainer{
+    padding-top:17px;
+    margin-right: 44px;
+}
+
+
+.modalDialog {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	display:none;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: auto;
+}
+.modalDialog > div {
+	width: 350px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);
+  -webkit-transition: opacity 400ms ease-in;
+-moz-transition: opacity 400ms ease-in;
+transition: opacity 400ms ease-in;
+}
+.close {
+	background: #606061;
+	color: #FFFFFF;
+	line-height: 25px;
+	position: absolute;
+	right: -12px;
+	text-align: center;
+	top: -10px;
+	width: 24px;
+	text-decoration: none;
+	font-weight: bold;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+	-moz-box-shadow: 1px 1px 3px #000;
+	-webkit-box-shadow: 1px 1px 3px #000;
+	box-shadow: 1px 1px 3px #000;
+}
+.close:hover { background: #00d9ff; }

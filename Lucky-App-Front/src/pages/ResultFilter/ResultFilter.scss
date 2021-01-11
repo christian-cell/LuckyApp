@@ -1,0 +1,60 @@
+.conteiner-filtered{
+    text-align: center;
+    
+}
+
+.conteiner-petimg{
+    margin-top: 10px;
+    width: 333px;
+    height: 203px;
+     margin-left: 18px;
+    border: 1px solid  rgb(1, 116, 142);
+    
+   
+    
+}
+.petimg{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.favoimg{
+position: absolute;
+margin-left: -34px;
+margin-top: 14px;
+}
+.container-info-pet{
+    display: flex;
+    width: 333px;
+    height: 50px;
+    margin-left: 18px;
+    border: 1px solid  rgb(1, 116, 142); 
+    margin-bottom: 10px;
+   
+    
+
+}
+.name-pet{
+    padding-top: 7px;
+}
+.name-pet-into{
+    font-size: 25px;
+    color: rgb(1, 116, 142);
+    font-weight: bold;
+    margin-top: 5px;
+     margin-left: 11px;
+    text-decoration: none;
+    
+}
+.city-pet{
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: 11px;
+    font-size: 12px;
+}
+.buscador{
+    position: absolute;;
+   
+    width: 200px;
+    margin-top:0px;
+}

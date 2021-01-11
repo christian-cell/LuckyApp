@@ -1,0 +1,175 @@
+.img-profile-pet {
+  // position: relative;
+  width: 100%;
+  height: 230px;
+ & img{
+  background-size: cover;
+   width: 100%;
+   height: 100%;
+  }
+}
+
+.imgpetsex {
+  width: 16px;
+}
+.charactpet {
+  width: 225px;
+  height: 59px;
+  // position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  background-color: rgb(255, 255, 255);
+  margin-top: -27px;
+  margin-left: 76px;
+  padding: 5px;
+  
+  
+  
+}
+.data-pet {
+  width: 100%;
+  margin-left: 10px;
+ 
+}
+
+.icons-pet-profile {
+  display: flex;
+   flex-direction: row;
+  //  margin-left:100px;
+
+  width: 70px;
+  // position:absolute;
+  margin-top: -38px;
+
+}
+.options-profile {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  // margin-top: 40px;
+  justify-content: space-around;
+}
+.options {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(110, 109, 109);
+}
+.optionsd{
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(1, 116, 142);
+  border-bottom: 2px solid rgb(250, 156, 147);
+}
+.datapetinfo{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.especie{
+  margin-left: 10px;
+}
+.span1especie{
+  font-size:18px ;
+  margin-left: 10px;
+}
+.span2especie{
+  font-size:18px ;
+  margin-left: 205px;
+
+}
+.span2especie3{
+  font-size:18px ;
+  margin-left: 5px;
+}
+.span2especie4{
+  font-size:18px ;
+  margin-left: 222px;
+}
+.span2especie5{
+  font-size:18px ;
+  margin-left: 200px;
+}
+.span2especie6{
+  font-size:18px ;
+  margin-left: 222px;
+}
+.span2especie7{
+  font-size:18px ;
+  margin-left: 100px;
+}
+.personalidad{
+  margin-top: 10px;
+  margin-left: 10px;
+  
+}
+.personalidadd{
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(1, 116, 142);
+}
+.personalidad-into{
+  margin-left: 10px;
+  padding: 3px;
+  background-color: rgb(1, 116, 142);
+  color: white;
+  border-radius: 10px;
+  width: fit-content;
+
+}
+.optionsdd{
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(1, 116, 142);
+}
+.history{
+  padding: 3px;
+  margin-left: 10px;
+  width: 350px;
+  border: solid 1px rgb(94, 142, 153);
+  margin-top: 10px;
+}
+.btns{
+  justify-items:  baseline;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+.apadrinarprofile{
+  text-align: center;
+  width: 106px;
+  height: 35px;
+  border: solid 1px rgb(250, 156, 147);
+  border-radius: 5px;
+  margin: 5px;
+  padding: 6px;
+}
+.adoptarprofile{
+  text-align: center;
+  margin: 5px;
+  width: 106px;
+  height: 35px;
+  background-color:rgb(250, 156, 147) ;
+  border-radius: 5px;
+  padding: 6px;
+  
+}
+.spapadrina{
+  
+  color: rgb(250, 156, 147);
+}
+.spadopta{
+  color: white;
+  text-decoration: none;
+}
+.linkadopta{
+  text-decoration: none;
+}
+
+.linkssalud{
+  text-decoration: none;
+  
+}
+
+

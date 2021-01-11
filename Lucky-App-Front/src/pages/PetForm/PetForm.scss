@@ -1,0 +1,85 @@
+.content{
+    width: 100%;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.title{
+    margin-top: 90px;
+}
+
+.text{
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 30pt;
+    text-align: center;
+    color: rgb(1, 116, 142);
+}
+
+.input-form{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: solid rgb(1, 116, 142) 1px;
+    margin-bottom: 15px;
+    width: 75%;
+}
+
+.button-form{
+    margin-top: 20px;
+    background-color: rgb(1, 116, 142);
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    width: 196px;
+    height: 40px;
+    font-size: 16px;
+}
+.nacimientodate{
+   
+    margin-bottom: 15px;
+    
+    margin-left: 0;
+}
+.form-group1{
+    text-align: left;
+    width: 75%;
+    margin-left: 12.5%;
+    color: rgb(88, 88, 88);
+    font-size: 13px;
+}
+.parrafobtn{
+    background-color: rgb(250, 156, 147);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 196px;
+    height: 40px;
+    font-size: 16px;
+    position: absolute;
+    top: -20px;
+    left: 90px;
+}
+.loadimg2{
+    width: 196px;
+    opacity: 0;
+}
+.btnfile2{
+    position: relative;
+    width: 100px;
+    align-self: auto;
+}
+.button-form2{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    background-color: rgb(1, 116, 142);
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    width: 196px;
+    height: 40px;
+    font-size: 16px;
+}
